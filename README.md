@@ -14,17 +14,6 @@ Vérifier la communication entre tous les appareils et tester la connectivité.
 
 ![Topologie du réseau](images/topology.png)
 
-*Représentation simplifiée :*
-
-  PC1
-   |
-   |
-  Switch ---- Routeur
-   |
-   |
-  PC2
-
-
 ---
 
 ## 🌐 Plan d’adressage IP
@@ -62,4 +51,5 @@ Vérifier la communication entre tous les appareils et tester la connectivité.
 ## 🎉 Résultat
 
 Le réseau fonctionne correctement : les PC communiquent entre eux via le switch et utilisent le routeur comme passerelle.
+
 
